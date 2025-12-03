@@ -14,7 +14,7 @@ font-size: 14px;
 }
 
 #event-subscription {
-    background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.4)), url("..//img/banner.jpg");
+    background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.4)), url("..//img/banner.jpg.jpg");
     background-position: center ;
     background-size: cover ;
     height: 85vh;
@@ -216,6 +216,7 @@ h2 {
 }
 
 .project img {
+  
     width: auto;
     max-width: 50%;
     height: 350px;
@@ -308,3 +309,5 @@ h2 {
       font-size: 1.5rem;
     }
   }
+
+  
